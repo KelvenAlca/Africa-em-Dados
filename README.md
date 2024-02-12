@@ -5,12 +5,12 @@ Este é um projeto de análise abrangente que investiga uma variedade de aspecto
 ## Objetivo
 O objetivo deste projeto é analisar e apresentar dados estatísticos relevantes sobre diversos aspectos da África, incluindo, mas não se limitando a:
 
-Economia
-Demografia
+Economia <br>
+Demografia <br>
 Saúde <br>
-Educação
-Geografia
-Cultura e línguas
+Educação <br>
+Geografia <br>
+Cultura e línguas <br>
 
 ## Metodologia
 A análise será realizada utilizando uma variedade de fontes de dados confiáveis, incluindo relatórios de organizações internacionais, dados governamentais, pesquisas acadêmicas e outras fontes reconhecidas. A metodologia incluirá:
